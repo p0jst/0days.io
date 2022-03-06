@@ -1,6 +1,5 @@
 ---
 title: "Welcome home, stranger."
-date: 2022-03-06T22:40:20+01:00
 draft: false
 ---
 

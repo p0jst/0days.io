@@ -1,5 +1,5 @@
 ---
-title: "Welcome home, stranger."
+title: "Bonjour, stranger."
 draft: false
 ---
 
